@@ -1,16 +1,44 @@
-# instagram_ui_clone
+# Instagram UI Clone
 
-A Instagram UI Clone Flutter project.
+An Instagram UI Clone Flutter project.
 
-## Getting Started
+## Libraries which I used in the application:
 
-This project is a starting point for a Flutter application.
+- Font Awesome : https://pub.dev/packages/font_awesome_flutter
+- Flutter SVG : https://pub.dev/packages/flutter_svg
+- Google Fonts : https://pub.dev/packages/google_fonts
+- Sliver Header Delegate : https://pub.dev/packages/sliver_header_delegate
+- Staggered Grid View : https://pub.dev/packages/flutter_staggered_grid_view
+- Video Player : https://pub.dev/packages/video_player
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p>
+<img src="https://i.hizliresim.com/9r99lpm.png" width="300">
+<img src="https://i.hizliresim.com/42srl9e.png" width="300">
+<img src="https://i.hizliresim.com/o08tecp.png" width="300">
+</p>
+<p>
+<img src="https://i.hizliresim.com/jmzoegl.png" width="300">
+<img src="https://i.hizliresim.com/2wydchn.png" width="300">
+<img src="https://i.hizliresim.com/1ah9ap9.png" width="300">
+</p>
+<p>
+<img src="https://i.hizliresim.com/5juxxdf.png" width="300">
+<img src="https://i.hizliresim.com/nafdpgi.png" width="300">
+<img src="https://i.hizliresim.com/n5guytj.png" width="300">
+</p>
+<p>
+<img src="https://i.hizliresim.com/1tw74x9.png" width="300">
+<img src="https://i.hizliresim.com/j43udlm.png" width="300">
+<img src="https://i.hizliresim.com/ijqrb0j.png" width="300">
+</p>
+<p>
+<img src="https://i.hizliresim.com/6lnt0wh.png" width="300">
+<img src="https://i.hizliresim.com/3azefrh.png" width="300">
+<img src="https://i.hizliresim.com/sxokmzo.png" width="300">
+</p>
+<p>
+<img src="https://i.hizliresim.com/azrjgo5.png" width="300">
+<img src="https://i.hizliresim.com/mvlok8o.png" width="300">
+<img src="https://i.hizliresim.com/7n6n354.png" width="300">
+</p>
